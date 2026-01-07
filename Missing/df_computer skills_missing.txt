@@ -1,0 +1,22 @@
+STRUCTURE                                      0
+STRUCTURE_ID                                   0
+STRUCTURE_NAME                                 0
+freq                                           0
+Time frequency                                 0
+indic_is                                       0
+Information society indicator                  0
+ind_type                                       0
+Individual type                                0
+unit                                           0
+Unit of measure                                0
+geo                                            0
+Geopolitical entity (reporting)                0
+TIME_PERIOD                                    0
+Time                                      824547
+OBS_VALUE                                  20988
+Observation value                         824547
+OBS_FLAG                                  763064
+Observation status (Flag) V2 structure    763064
+CONF_STATUS                               824536
+Confidentiality status (flag)             824536
+dtype: int64

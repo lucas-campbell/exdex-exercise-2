@@ -1,0 +1,18 @@
+STRUCTURE                                   1
+STRUCTURE_ID                                1
+STRUCTURE_NAME                              1
+freq                                        1
+Time frequency                              1
+unit                                        1
+Unit of measure                             1
+geo                                        24
+Geopolitical entity (reporting)            24
+TIME_PERIOD                                15
+Time                                        0
+OBS_VALUE                                 144
+Observation value                           0
+OBS_FLAG                                    0
+Observation status (Flag) V2 structure      0
+CONF_STATUS                                 0
+Confidentiality status (flag)               0
+dtype: int64

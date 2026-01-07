@@ -1,0 +1,20 @@
+STRUCTURE                                    1
+STRUCTURE_ID                                 1
+STRUCTURE_NAME                               1
+freq                                         1
+Time frequency                               1
+unit                                         1
+Unit of measure                              1
+hhtyp                                       18
+Type of household                           18
+geo                                         44
+Geopolitical entity (reporting)             44
+TIME_PERIOD                                 23
+Time                                         0
+OBS_VALUE                                 5147
+Observation value                            0
+OBS_FLAG                                     4
+Observation status (Flag) V2 structure       4
+CONF_STATUS                                  0
+Confidentiality status (flag)                0
+dtype: int64

@@ -6,3 +6,6 @@ geopandas
 statsmodels
 linearmodels
 scipy
+ipykernel
+jupyter
+notebook

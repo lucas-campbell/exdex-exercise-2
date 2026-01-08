@@ -7,7 +7,7 @@ unzip input.zip -d ./input
 Windows:
 Use the File Explorer GUI and unzip to a folder named 'input' that sits at the same level as the notebook script.
 
-Be sure to confirm sure all .csv files are inside a folder labeled 'input' that exists at the same level as the notebook file. World shapefiles (ne_110m*) should be in their own subdirectory (input/world-shapefile).
+Be sure to confirm sure all 8 .csv files are inside a folder labeled 'input' that exists at the same level as the notebook file. Then, 5 world shapefiles (ne_110m*) should be in their own subdirectory (input/world-shapefile).
 
 
 2. Run: 
